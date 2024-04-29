@@ -1,0 +1,15 @@
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Lista - Array e Matriz\bin\Debug\net8.0\Lista - Array e Matriz.exe
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Lista - Array e Matriz\bin\Debug\net8.0\Lista - Array e Matriz.deps.json
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Lista - Array e Matriz\bin\Debug\net8.0\Lista - Array e Matriz.runtimeconfig.json
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Lista - Array e Matriz\bin\Debug\net8.0\Lista - Array e Matriz.dll
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Lista - Array e Matriz\bin\Debug\net8.0\Lista - Array e Matriz.pdb
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Lista - Array e Matriz\obj\Debug\net8.0\Lista - Array e Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Lista - Array e Matriz\obj\Debug\net8.0\Lista - Array e Matriz.AssemblyInfoInputs.cache
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Lista - Array e Matriz\obj\Debug\net8.0\Lista - Array e Matriz.AssemblyInfo.cs
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Lista - Array e Matriz\obj\Debug\net8.0\Lista - Array e Matriz.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Lista - Array e Matriz\obj\Debug\net8.0\Lista - Array e Matriz.sourcelink.json
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Lista - Array e Matriz\obj\Debug\net8.0\Lista - Array e Matriz.dll
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Lista - Array e Matriz\obj\Debug\net8.0\refint\Lista - Array e Matriz.dll
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Lista - Array e Matriz\obj\Debug\net8.0\Lista - Array e Matriz.pdb
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Lista - Array e Matriz\obj\Debug\net8.0\Lista - Array e Matriz.genruntimeconfig.cache
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Lista - Array e Matriz\obj\Debug\net8.0\ref\Lista - Array e Matriz.dll
