@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Gabriel Araujo\\source\\repos\\Lista - Array e Matriz\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1EC9738-D456-4D9B-95B8-2D1B830F3E23}|Exercicio22\\Exercicio22.csproj|c:\\users\\gabriel araujo\\source\\repos\\lista - array e matriz\\exercicio22\\exercicio22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1EC9738-D456-4D9B-95B8-2D1B830F3E23}|Exercicio22\\Exercicio22.csproj|solutionrelative:exercicio22\\exercicio22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercicio22.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel Araujo\\source\\repos\\Lista - Array e Matriz\\Exercicio22\\Exercicio22.cs",
+              "RelativeDocumentMoniker": "Exercicio22\\Exercicio22.cs",
+              "ToolTip": "C:\\Users\\Gabriel Araujo\\source\\repos\\Lista - Array e Matriz\\Exercicio22\\Exercicio22.cs",
+              "RelativeToolTip": "Exercicio22\\Exercicio22.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T19:36:49.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,15 @@
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio19\bin\Debug\net8.0\Exercicio19.exe
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio19\bin\Debug\net8.0\Exercicio19.deps.json
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio19\bin\Debug\net8.0\Exercicio19.runtimeconfig.json
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio19\bin\Debug\net8.0\Exercicio19.dll
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio19\bin\Debug\net8.0\Exercicio19.pdb
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio19\obj\Debug\net8.0\Exercicio19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio19\obj\Debug\net8.0\Exercicio19.AssemblyInfoInputs.cache
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio19\obj\Debug\net8.0\Exercicio19.AssemblyInfo.cs
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio19\obj\Debug\net8.0\Exercicio19.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio19\obj\Debug\net8.0\Exercicio19.sourcelink.json
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio19\obj\Debug\net8.0\Exercicio19.dll
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio19\obj\Debug\net8.0\refint\Exercicio19.dll
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio19\obj\Debug\net8.0\Exercicio19.pdb
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio19\obj\Debug\net8.0\Exercicio19.genruntimeconfig.cache
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio19\obj\Debug\net8.0\ref\Exercicio19.dll
