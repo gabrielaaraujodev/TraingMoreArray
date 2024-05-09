@@ -1,0 +1,7 @@
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio24\bin\Debug\Exercicio24.exe.config
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio24\bin\Debug\Exercicio24.exe
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio24\bin\Debug\Exercicio24.pdb
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio24\obj\Debug\Exercicio24.csproj.AssemblyReference.cache
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio24\obj\Debug\Exercicio24.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio24\obj\Debug\Exercicio24.exe
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio24\obj\Debug\Exercicio24.pdb

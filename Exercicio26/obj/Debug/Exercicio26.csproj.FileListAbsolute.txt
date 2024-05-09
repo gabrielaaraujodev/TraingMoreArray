@@ -1,0 +1,7 @@
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio26\bin\Debug\Exercicio26.exe.config
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio26\bin\Debug\Exercicio26.exe
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio26\bin\Debug\Exercicio26.pdb
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio26\obj\Debug\Exercicio26.csproj.AssemblyReference.cache
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio26\obj\Debug\Exercicio26.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio26\obj\Debug\Exercicio26.exe
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio26\obj\Debug\Exercicio26.pdb

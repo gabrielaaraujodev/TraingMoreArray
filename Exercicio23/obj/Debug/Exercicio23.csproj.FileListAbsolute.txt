@@ -1,0 +1,7 @@
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio23\bin\Debug\Exercicio23.exe.config
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio23\bin\Debug\Exercicio23.exe
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio23\bin\Debug\Exercicio23.pdb
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio23\obj\Debug\Exercicio23.csproj.AssemblyReference.cache
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio23\obj\Debug\Exercicio23.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio23\obj\Debug\Exercicio23.exe
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio23\obj\Debug\Exercicio23.pdb
