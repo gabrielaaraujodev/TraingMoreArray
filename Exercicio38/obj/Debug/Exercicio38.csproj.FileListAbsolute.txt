@@ -1,0 +1,7 @@
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio38\bin\Debug\Exercicio38.exe.config
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio38\bin\Debug\Exercicio38.exe
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio38\bin\Debug\Exercicio38.pdb
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio38\obj\Debug\Exercicio38.csproj.AssemblyReference.cache
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio38\obj\Debug\Exercicio38.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio38\obj\Debug\Exercicio38.exe
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio38\obj\Debug\Exercicio38.pdb
