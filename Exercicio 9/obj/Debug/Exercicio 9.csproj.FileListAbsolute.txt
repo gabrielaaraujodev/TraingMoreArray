@@ -1,0 +1,7 @@
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio 9\bin\Debug\Exercicio 9.exe.config
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio 9\bin\Debug\Exercicio 9.exe
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio 9\bin\Debug\Exercicio 9.pdb
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio 9\obj\Debug\Exercicio 9.csproj.AssemblyReference.cache
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio 9\obj\Debug\Exercicio 9.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio 9\obj\Debug\Exercicio 9.exe
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio 9\obj\Debug\Exercicio 9.pdb

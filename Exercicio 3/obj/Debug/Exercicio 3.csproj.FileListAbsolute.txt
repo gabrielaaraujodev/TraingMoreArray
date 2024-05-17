@@ -1,0 +1,7 @@
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio 3\bin\Debug\Exercicio 3.exe.config
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio 3\bin\Debug\Exercicio 3.exe
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio 3\bin\Debug\Exercicio 3.pdb
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio 3\obj\Debug\Exercicio 3.csproj.AssemblyReference.cache
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio 3\obj\Debug\Exercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio 3\obj\Debug\Exercicio 3.exe
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio 3\obj\Debug\Exercicio 3.pdb
