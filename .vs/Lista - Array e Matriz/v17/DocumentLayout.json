@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Gabriel Araujo\\source\\repos\\Lista - Array e Matriz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43DC68E9-F028-4DC7-979D-D0AC227B3059}|Exercicio 16\\Exercicio 16.csproj|c:\\users\\gabriel araujo\\source\\repos\\lista - array e matriz\\exercicio 16\\exercicio 16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43DC68E9-F028-4DC7-979D-D0AC227B3059}|Exercicio 16\\Exercicio 16.csproj|solutionrelative:exercicio 16\\exercicio 16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B5E7D23-63A9-43A4-AB48-E8EDE8589410}|Exercicio 21\\Exercicio 21.csproj|C:\\Users\\Gabriel Araujo\\source\\repos\\Lista - Array e Matriz\\exercicio 21\\exercicio 21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5E7D23-63A9-43A4-AB48-E8EDE8589410}|Exercicio 21\\Exercicio 21.csproj|solutionrelative:exercicio 21\\exercicio 21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EF6547-1A7C-422D-93FF-9FB0FDAB1B0C}|Exercicio 20\\Exercicio 20.csproj|C:\\Users\\Gabriel Araujo\\source\\repos\\Lista - Array e Matriz\\exercicio 20\\exercicio 20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EF6547-1A7C-422D-93FF-9FB0FDAB1B0C}|Exercicio 20\\Exercicio 20.csproj|solutionrelative:exercicio 20\\exercicio 20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Exercicio 16.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel Araujo\\source\\repos\\Lista - Array e Matriz\\Exercicio 16\\Exercicio 16.cs",
-              "RelativeDocumentMoniker": "Exercicio 16\\Exercicio 16.cs",
-              "ToolTip": "C:\\Users\\Gabriel Araujo\\source\\repos\\Lista - Array e Matriz\\Exercicio 16\\Exercicio 16.cs",
-              "RelativeToolTip": "Exercicio 16\\Exercicio 16.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAgwDsAAAArAAAA",
+              "Title": "Exercicio 21.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel Araujo\\source\\repos\\Lista - Array e Matriz\\Exercicio 21\\Exercicio 21.cs",
+              "RelativeDocumentMoniker": "Exercicio 21\\Exercicio 21.cs",
+              "ToolTip": "C:\\Users\\Gabriel Araujo\\source\\repos\\Lista - Array e Matriz\\Exercicio 21\\Exercicio 21.cs",
+              "RelativeToolTip": "Exercicio 21\\Exercicio 21.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAC4AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T14:42:45.325Z",
+              "WhenOpened": "2024-05-19T14:31:27.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exercicio 20.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel Araujo\\source\\repos\\Lista - Array e Matriz\\Exercicio 20\\Exercicio 20.cs",
+              "RelativeDocumentMoniker": "Exercicio 20\\Exercicio 20.cs",
+              "ToolTip": "C:\\Users\\Gabriel Araujo\\source\\repos\\Lista - Array e Matriz\\Exercicio 20\\Exercicio 20.cs",
+              "RelativeToolTip": "Exercicio 20\\Exercicio 20.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwD8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:31:13.857Z",
               "EditorCaption": ""
             }
           ]

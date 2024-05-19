@@ -1,0 +1,7 @@
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio 17\bin\Debug\Exercicio 17.exe.config
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio 17\bin\Debug\Exercicio 17.exe
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio 17\bin\Debug\Exercicio 17.pdb
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio 17\obj\Debug\Exercicio 17.csproj.AssemblyReference.cache
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio 17\obj\Debug\Exercicio 17.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio 17\obj\Debug\Exercicio 17.exe
+C:\Users\Gabriel Araujo\source\repos\Lista - Array e Matriz\Exercicio 17\obj\Debug\Exercicio 17.pdb
